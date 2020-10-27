@@ -1,0 +1,20 @@
+{
+    "Author": "Joe Levy_",
+    "ContentSize": 3230,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/download-a-github-repository/master/Copy-GithubRepository.ps1",
+    "DownloadCount": 3150,
+    "Id": "a-GitHub-Repository-265c0b49",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 117,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-6-21T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook copies a GitHub repository to the local sandbox running the runbook, similar to what \"git pull\" would do.",
+    "Title": "Download a GitHub Repository",
+    "UpdatedDate": "2014-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/download-a-github-repository",
+    "UserTags": "Microsoft Azure, Utility, Azure Automation"
+}
